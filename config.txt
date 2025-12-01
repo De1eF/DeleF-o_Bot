@@ -1,5 +1,5 @@
-USER_ID=1171101325
-BOT_TOKEN=8274737999:AAHDqkYHWRF6I6fZ2VEPjoBw4wCIOaDDfgE
+USER_ID=
+BOT_TOKEN=
 START_MESSAGE="""Hello!🖐
 I am DeleF-O-Bot🤖, created by Nikita under the influence of yesterdays events.
 Although I do not posses conversational AI, I am here to help him remind you about things you need to be reminded about. 

@@ -1,0 +1,25 @@
+USER_ID=1171101325
+BOT_TOKEN=8274737999:AAHDqkYHWRF6I6fZ2VEPjoBw4wCIOaDDfgE
+START_MESSAGE="""Hello!🖐
+I am DeleF-O-Bot🤖, created by Nikita under the influence of yesterdays events.
+Although I do not posses conversational AI, I am here to help him remind you about things you need to be reminded about. 
+
+You are free to mute me if you wish, but that would make my creator real sad. And neither of us wants that. So I suggest leaving me to do my job as intended. 
+
+Thank you very much 😊
+"""
+
+MON-03:57-""" 
+I remind You
+to do stuff
+"""
+MON-03:58-""" 
+I remind You
+to do stuff again
+"""
+TUE-18:00-""" 
+Another message
+"""
+TUE-18:00-""" 
+Message on the same day
+"""
